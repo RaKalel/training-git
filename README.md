@@ -4,6 +4,7 @@
 
 + 1
 + 2
-+ 3 
 
 Formation *GIT*
+
+## Adding new files
